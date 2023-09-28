@@ -1,0 +1,14 @@
+
+body {
+  background-image: url('background_image.png');
+  background-size: cover;
+}
+
+
+#left-menu {
+  position: absolute;
+  left: 20px;
+}
+
+
+
